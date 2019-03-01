@@ -1,1 +1,2 @@
-# Hotel_Rating_Analysis
+# Exploratory Analysis of Hotel Ratings Data using Machine Learning Algorithms
+
