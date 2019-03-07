@@ -44,6 +44,16 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
         <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-04.ipynb">Hotel_Ratings_Analysis-04.ipynb</a></td>
         <td>Natural language processing (NLP) on each hotel review</td>
     </tr>
+    <tr>
+        <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-05.ipynb">Hotel_Ratings_Analysis-05.ipynb</a></td>
+        <td>Combined ratings and metadata
+            <ul>
+                <li>Merge based on "Name"</li>
+                <li>Calculated correlation coefficients (phi coefficient)</li>
+                <li>Removed one variable from each highly correlated variable pair</li>
+            </ul>
+        </td>
+    </tr>
 </table>
 
 ## Database
@@ -51,3 +61,4 @@ The data extracted and transformed in Jupyter notebooks were saved in <a href = 
 1. <b>metadata.</b> Raw data.
 2. <b>metadata2.</b> Dummy variables and nearest-airport distance indicated.
 3. <b>ratings.</b> Scores and reviews obtained from hotel visitors.
+4. <b>alldata.</b> Merged data from metadata2 and ratings; for machine learning.
