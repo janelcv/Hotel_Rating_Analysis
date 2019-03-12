@@ -60,13 +60,13 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
         </td>
     </tr>
     <tr>
-    <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-06.ipynb">Hotel_Ratings_Analysis-06.ipynb</a></td>
-    <td>Natural language processing (NLP) on each hotel review title
-    <ul>
-    <li>Word frequencies and heatmap</li>
-    <li>Word cloud</li>
-    </ul>
-    </td>
+        <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-06.ipynb">Hotel_Ratings_Analysis-06.ipynb</a></td>
+        <td>Natural language processing (NLP) on each hotel review title
+            <ul>
+                <li>Word frequencies and heatmap</li>
+                <li>Word clouds</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-07.ipynb">Hotel_Ratings_Analysis-07.ipynb</a></td>
