@@ -42,7 +42,7 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
     </tr>
     <tr>
         <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-04.ipynb">Hotel_Ratings_Analysis-04.ipynb</a></td>
-        <td>Natural language processing (NLP) on each hotel review
+        <td>Natural language processing (NLP) on each hotel review text
             <ul>
                 <li>Word frequencies and heatmap</li>
                 <li>Word clouds</li>
