@@ -10,20 +10,20 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
 
 ## Libraries used
 ### Data processing
-1. pandas
-2. numpy
-3. pyspark
-4. sqlite3
+1. [pandas](https://pandas.pydata.org/): for creating dataframes and other data types 
+2. [numpy](http://www.numpy.org/): creation of arrays and scientific computing
+3. [pyspark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html): allows Spark programming functionality in the Python environment
+4. [collections](https://docs.python.org/2/library/collections.html): specialised data type alternatives to dictionaries, lists, sets, and tuples
+5. [sqlite3](https://docs.python.org/3.4/library/sqlite3.html): allows SQLite functionality in the Python environment
 ### Machine learning
-1. sklearn
-2. mord
-3. statsmodels
-4. nltk
+1. [sklearn](https://scikit-learn.org/stable/): machine learning module in Python with functionalities for regression, classification, dimension reduction, etc.
+2. [mord](https://pythonhosted.org/mord/): machine learning module with sklearn functionality that is used for ordinal regression
+3. [statsmodels](https://www.statsmodels.org/stable/index.html): statistical tests and data exploration, including linear regression
+4. [nltk](https://www.nltk.org/): library that is used to process text data (natural language processing)
 ### Visualisation
-1. matplotlib
-2. seaborn
-3. wordcloud
-4. PIL
+1. [matplotlib](https://matplotlib.org/): library for creating graphs and charts using Python
+2. [seaborn](https://seaborn.pydata.org/): library based on matplotlib; for creating graphs and charts
+3. [wordcloud](https://github.com/amueller/word_cloud): word cloud generator in Python
 
 ## Jupyter notebooks
 <table>
@@ -120,4 +120,4 @@ The data extracted and transformed in Jupyter notebooks were saved in <a href = 
 4. <b>alldata.</b> Merged data from metadata2 and ratings; for machine learning.
 
 ## Presentation
-A summary of the findings are presented in the Google Slide Deck found [here](https://docs.google.com/presentation/d/1V_myvfP2MIwZeA6Qpv7WwfCHxwd0o0B3AISVZQSu5tM/edit#slide=id.g522128fe48_1_61). A pdf version of the slides is found [here]().
+A summary of the findings are presented in the Google Slide Deck found [here](https://docs.google.com/presentation/d/1V_myvfP2MIwZeA6Qpv7WwfCHxwd0o0B3AISVZQSu5tM/edit#slide=id.g522128fe48_1_61). A pdf version of the slides is found [here](https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/ML_Hotel_Ratings.pdf).
