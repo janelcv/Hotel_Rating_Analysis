@@ -79,6 +79,20 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
             </ul>
         </td>
     </tr>
+    <tr>
+        <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-08.ipynb">Hotel_Ratings_Analysis-08.ipynb</a></td>
+        <td>Determination of important words using TF-IDF
+            <ul>
+                <li>Combined titles and text</li>
+                <li>Calculated TF-IDF</li>
+                <li>Visualised important words using interactive seaborn horizontal bar graphs</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-09.ipynb">Hotel_Ratings_Analysis-09.ipynb</a></td>
+        <td>Relationship between state population and number of hotel reviews determined using linear regression</td>
+    </tr>
 </table>
 
 ## Database
@@ -87,3 +101,6 @@ The data extracted and transformed in Jupyter notebooks were saved in <a href = 
 2. <b>metadata2.</b> Dummy variables and nearest-airport distance indicated.
 3. <b>ratings.</b> Scores and reviews obtained from hotel visitors.
 4. <b>alldata.</b> Merged data from metadata2 and ratings; for machine learning.
+
+## Presentation
+A summary of the findings are presented in the Google Slide Deck found [here](https://docs.google.com/presentation/d/1V_myvfP2MIwZeA6Qpv7WwfCHxwd0o0B3AISVZQSu5tM/edit#slide=id.g522128fe48_1_61). A pdf version of the slides is found [here]().
