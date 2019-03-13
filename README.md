@@ -8,6 +8,23 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
 1. To create a model that can be used to predict hotel ratings given by visitors based on various variables.
 2. To obtain sentiment insights from the visitors who provided information about their experiences in the various properties.
 
+## Libraries used
+### Data processing
+1. pandas
+2. numpy
+3. pyspark
+4. sqlite3
+### Machine learning
+1. sklearn
+2. mord
+3. statsmodels
+4. nltk
+### Visualisation
+1. matplotlib
+2. seaborn
+3. wordcloud
+4. PIL
+
 ## Jupyter notebooks
 <table>
     <tr>
