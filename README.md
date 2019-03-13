@@ -42,7 +42,12 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
     </tr>
     <tr>
         <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-04.ipynb">Hotel_Ratings_Analysis-04.ipynb</a></td>
-        <td>Natural language processing (NLP) on each hotel review</td>
+        <td>Natural language processing (NLP) on each hotel review text
+            <ul>
+                <li>Word frequencies and heatmap</li>
+                <li>Word clouds</li>
+            </ul>
+        </td>
     </tr>
     <tr>
         <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-05.ipynb">Hotel_Ratings_Analysis-05.ipynb</a></td>
@@ -51,6 +56,26 @@ In this project, data on consumer reviews and other data of over 1,800 hotels wi
                 <li>Merge based on "Name"</li>
                 <li>Calculated correlation coefficients (phi coefficient)</li>
                 <li>Removed one variable from each highly correlated variable pair</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-06.ipynb">Hotel_Ratings_Analysis-06.ipynb</a></td>
+        <td>Natural language processing (NLP) on each hotel review title
+            <ul>
+                <li>Word frequencies and heatmap</li>
+                <li>Word clouds</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href = "https://github.com/janelcv/Hotel_Rating_Analysis/blob/master/Hotel_Ratings_Analysis-07.ipynb">Hotel_Ratings_Analysis-07.ipynb</a></td>
+        <td>Supervised learning using regression analyses
+            <ul>
+                <li>Removed zero-variance variables</li>
+                <li>Random forest to find top 10 important variables</li>
+                <li>Created five regression models and evaluated them</li>
+                <li>Conducted PCA to <i>try</i> reducing the dimensionality</li>
             </ul>
         </td>
     </tr>
